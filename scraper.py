@@ -3,7 +3,7 @@ clear = lambda: os.system("clear")
 clear()
 from config import total
 
-print("#########################################################")
+print("########################################################")
 print("#        Email Scraper - Dev. By Wellyington            #")
 print("#          \033[1;33;40mhttps://wellyington.github.io/\033[0;37;40m               #")
 print("#########################################################\n\n")
